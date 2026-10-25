@@ -1,0 +1,10 @@
+{
+  "name": "coldfusion-training-runtime",
+  "server": {
+    "port": 8080,
+    "cfengine": "adobe@2025.0.11+331909"
+  },
+  "jvm": {
+    "javaVersion": "openjdk17"
+  }
+}

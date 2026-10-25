@@ -1,0 +1,5 @@
+ColdFusion training knowledge base (demo).
+
+Renewal: Account > Billing > Renew. Confirm payment and click Renew now.
+Upgrade: Account > Plans > Upgrade. Choose a higher tier; changes apply next cycle.
+RAG: Vector stores hold document chunk embeddings for semantic retrieval before generation.

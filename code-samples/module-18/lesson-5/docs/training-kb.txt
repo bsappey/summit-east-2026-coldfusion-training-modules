@@ -1,0 +1,11 @@
+ColdFusion training knowledge base (demo).
+
+Renewal:
+To renew your plan, open Account > Billing > Renew. Confirm the payment method and click Renew now.
+Prepaid cards: scratch the foil for the redemption code, sign in with your Adobe ID, and follow the on-screen steps.
+
+Upgrade:
+To upgrade an Adobe plan, open Account > Plans > Upgrade. Choose a higher tier and confirm. Changes usually apply on the next billing cycle.
+
+ColdFusion RAG:
+Retrieval-Augmented Generation stores document chunks in a vector store, retrieves relevant chunks for a question, and passes them as context to a chat model so answers stay grounded in your docs.
